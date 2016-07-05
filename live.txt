@@ -1,6 +1,6 @@
 <item>
 <title>RTP 1</title>
-<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live</link>
+<link>https://raw.githubusercontent.com/Riishan/live/master/RTP1.strm</link>
 <thumbnail>http://imgur.com/O6vPdEm</thumbnail>
 <fanart></fanart>
 </item>
