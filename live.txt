@@ -1,6 +1,6 @@
 <item>
 <title>RTP 1</title>
-<link>http://www.rtp.pt/play/direto/rtp1</link>
+<link>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8</link>
 <thumbnail>http://imgur.com/O6vPdEm</thumbnail>
 <fanart></fanart>
 </item>
