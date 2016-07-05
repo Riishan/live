@@ -1,6 +1,6 @@
 <item>
 <title>RTP 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://192.168.2.176:2869/upnphost/udhisapi.dll</link>
+<link>http://192.168.2.176:2869/upnphost/udhisapi.dll</link>
 <thumbnail>http://imgur.com/O6vPdEm</thumbnail>
 <fanart></fanart>
 </item>
