@@ -1,6 +1,6 @@
 <item>
 <title>RTP 1</title>
-<link>http://www.rtp.pt/play/ova-jw-play.swf</link>
+<link>http://www.rtp.pt/play/player.swf?v3</link>
 <thumbnail>http://imgur.com/O6vPdEm</thumbnail>
 <fanart></fanart>
 </item>
