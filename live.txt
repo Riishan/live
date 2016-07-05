@@ -1,0 +1,34 @@
+<item>
+<title>RTP 1</title>
+<link>http://www.rtp.pt/play/ova-jw-play.swf</link>
+<thumbnail>http://imgur.com/O6vPdEm</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>RTP 2</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>RTP 3</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>SIC</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TVI</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
