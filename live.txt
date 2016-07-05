@@ -1,6 +1,6 @@
 <item>
 <title>RTP 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://www.rtp.pt/play/player.swf?v3</link>
+<link>plugin://plugin.video.f4mTester/?url=rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live&</link>
 <thumbnail>http://imgur.com/O6vPdEm</thumbnail>
 <fanart></fanart>
 </item>
